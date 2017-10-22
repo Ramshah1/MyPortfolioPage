@@ -1,107 +1,100 @@
-html,body{
-    font-family: "Liberation Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    margin-top: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 5px;
+html,
+body {
+    font-family: "Liberation Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 20px 50px 5px 50px;
 }
 
-h3{
+h3 {
     margin-top: 20px;
     margin-bottom: 5px;
 }
 
-p{
+p {
     text-align: center;
 }
 
-#code-id{
-    width: 100%;
-    height: 100%;
+#code-id {
+    width: auto;
+    height: auto;
 }
 
-#logo-id{
+#logo-id {
     max-height: 75px;
     text-align: left;
 }
 
-.footer{
+.footer {
 
     font-size: small;
 }
 
-.img-border{
+.img-border {
     margin-left: 50px;
 }
 
-.prog-pic{
+.prog-pic {
     width: 100%;
     height: 100%;
     max-height: 300px;
 }
 
-.profile-row{
+.profile-row {
     height: auto;
     max-height: 400px;
     min-height: 100px;
     margin-bottom: 5px;
 }
 
-header{
-    display: block;
-    position: relative;
-}
-
-.social{
+.social {
     font-size: 25px;
 }
 
 .fa-linkedin {
-    color:#007bb6
+    color: #007bb6
 }
 
 .fa-twitter {
-    color:#00aced
+    color: #00aced
 }
 
 .fa-google-plus {
-    color:#dd4b39 ;
+    color: #dd4b39;
 }
 
-.fa-github{
-    color: #000000;
+.fa-github {
+    color: #000;
 }
 
-.text-muted{
-    color: #BCBBBB;
+.text-muted {
+    color: #bcbbbb;
     font-weight: bold;
 }
 
 .link-text {
     text-decoration: none;
-    color: #BCBBBB;
+    color: #bcbbbb;
 }
 
-.project-name{
+.project-name {
     font-weight: bolder;
 }
 
-.site-header{
+.site-header {
     margin-top: 50px;
 }
 
-.name-text{
+.name-text {
     font-weight: 100;
     font-size: 50px;
     margin-top: 20px;
 }
 
-.title-text{
+.title-text {
     font-weight: 900;
 }
 
 hr {
     background: #BCBBBB;
     border: 0;
-    height: .3em;
+    height: 0.3em;
 }
